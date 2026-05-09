@@ -1,0 +1,10 @@
+bm25s==0.3.3
+dashscope==1.25.13
+flagembedding
+jieba
+numpy
+python-dotenv
+scikit-learn
+scipy
+sentence_transformers
+tqdm
